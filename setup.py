@@ -6,7 +6,7 @@ PostgreSQL native array fields extension for Django.
 
 setup(
     name = "djorm-pgarray",
-    version = "1.3",
+    version = "1.3.0.peopledoc",
     url = "https://github.com/peopledoc/djorm-pgarray",
     license = "BSD",
     platforms = ["OS Independent"],
