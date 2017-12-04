@@ -1,5 +1,10 @@
 # Changelog #
 
+## Version 1.3 ##
+
+- Add support for django >= 1.8 and drop older versions.
+- Improve tests tools (add tox.ini and fix tarvis.yml)
+
 ## Version 1.2 ##
 
 - Fix django 1.7 migrations compatibility issues.
