@@ -1,6 +1,6 @@
 # Changelog #
 
-## Version 1.3 ##
+## Version 1.3.0+peopledoc ##
 
 - Add support for django >= 1.8 and drop older versions.
 - Improve tests tools (add tox.ini and fix tarvis.yml)
